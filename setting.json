@@ -1,0 +1,55 @@
+{
+  "editor.fontSize": 14,
+  "terminal.integrated.allowChords": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "redhat.telemetry.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "workbench.tree.enableStickyScroll": true,
+  "notebook.stickyScroll.enabled": true,
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.stickyScroll.enabled": true,
+  "editor.stickyTabStops": true,
+  "workbench.colorTheme": "Dracula",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, 'Courier New', monospace",
+  "git.autofetch": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.enableSmartCommit": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "workbench.iconTheme": "material-icon-theme",
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "indentRainbow.indicatorStyle": "light",
+  "indentRainbow.lightIndicatorStyleLineWidth": 2,
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.6)",
+    "rgba(127,255,127,0.6)",
+    "rgba(255,127,255,0.6)",
+    "rgba(79,236,236,0.6)"
+  ],
+  "editor.tabSize": 2,
+  "nuxtr.defaultPackageManager": "Bun",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.experimental.useFlatConfig": true,
+  "git.openRepositoryInParentFolders": "never",
+  "files.autoSave": "afterDelay",
+  "tailwindCSS.experimental.classRegex": ["[a-zA-Z]*class[a-zA-Z]*='([^']+)'"],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "tailwindCSS.emmetCompletions": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "javascript.referencesCodeLens.enabled": true,
+  "javascript.referencesCodeLens.showOnAllFunctions": true,
+  "typescript.referencesCodeLens.showOnAllFunctions": true,
+  "reactSnippets.settings.prettierEnabled": true
+}
